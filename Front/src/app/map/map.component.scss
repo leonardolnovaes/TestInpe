@@ -1,0 +1,16 @@
+.map-container {
+    margin: 30px;
+    display: grid;
+    grid-template-columns: 1fr;
+    align-content: center;
+  }
+  
+  .map-frame {
+    border: 2px solid #3f51b5;
+    height: 100%;
+  }
+  
+  #map {
+    height: calc(100vh - 124px);
+    width:  calc(100vw - 60px);
+  }

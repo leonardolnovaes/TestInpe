@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Boundary",
+      "properties": {"name" : "São José dos Campos", "state" : "SP"},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.89332580566406,
+          -23.173820082731126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.22840881347656,
+          -23.30757674572749
+        ]
+      }
+    }
+  ]
+}
